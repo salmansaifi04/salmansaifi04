@@ -3,7 +3,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=salmansaifi04&label=Profile%20views&color=0e75b6&style=flat" alt="salmansaifi04" /> </p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmansaifi04" alt="salmansaifi04" /></a> </p>
+<p> <a href="https://github.com/salmansaifi04"><img src="https://github-profile-trophy.vercel.app/?username=salmansaifi04" alt="salmansaifi04" /></a> </p>
 
 <!-- My skill section start -->
 <h3>My Skills</h3>
