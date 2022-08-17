@@ -6,6 +6,7 @@
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmansaifi04" alt="salmansaifi04" /></a> </p>
 
+<!-- My skill section start -->
 <h3>My Skills</h3>
 <p>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
@@ -16,11 +17,16 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 </p>
+<!-- my skills section end -->
 
-  
+<h2><i>My GitHub Stats</i></h2>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=geekyshow1&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="geekyshow1" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekyshow1&layout=compact&border_radius=0&theme=dark" alt="geekyshow1" height="139" />
+</p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmansaifi04&show_icons=true&locale=en&layout=compact" alt="salmansaifi04" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmansaifi04&show_icons=true&locale=en&layout=compact" alt="salmansaifi04" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmansaifi04&show_icons=true&locale=en" alt="salmansaifi04" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmansaifi04&show_icons=true&locale=en" alt="salmansaifi04" /></p>
   </div>
