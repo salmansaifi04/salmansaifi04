@@ -18,14 +18,12 @@
 </p>
 <!-- my skills section end -->
 
-<!-- <h2><i>My GitHub Stats</i></h2>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=geekyshow1&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="geekyshow1" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekyshow1&layout=compact&border_radius=0&theme=dark" alt="geekyshow1" height="139" />
-</p>
- -->
 
+<!-- stats start -->
+<h2><i>My GitHub Stats</i></h2>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmansaifi04&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="salmansaifi04" height="139"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmansaifi04&layout=compact&border_radius=0&theme=dark" alt="salmansaifi04" height="139" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmansaifi04&layout=compact&border_radius=0&theme=dark" alt="salmansaifi04" height="139" />
+</p>
+<!-- stats end -->
